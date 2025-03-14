@@ -18,6 +18,7 @@ payload:
     - adobe-dns-4.adobe.com
     - adobe-dns.adobe.com
     - adobeereg.com
+    - +.adobe.io
     - crl.versign.net
     - ereg.adobe.com
     - ereg.wip.adobe.com
